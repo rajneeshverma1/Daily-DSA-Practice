@@ -242,6 +242,7 @@
 | [0078-subsets](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3192-maximum-xor-product](https://github.com/curiousrajneesh27/Daily-DSA-Practice/tree/master/3192-maximum-xor-product) |
 ## Binary Search
 |  |
